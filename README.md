@@ -1,22 +1,6 @@
-# Hello Website (blank)
+# Reflections about the light and sound memory game
 
-This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
-
-## What's in this project?
-
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
-
-← `index.html`: This is the main HTML page for your site.
-
-← `style.css`: CSS files add styling rules to your content.
-
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
-
-## You built this with Glitch!
-
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
-
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
