@@ -1,3 +1,12 @@
+# Pre-work - *Memory Game*
+
+**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+
+Submitted by: **Haechan Oh**
+
+Time spent: **5** hours spent in total
+
+Link to project: https://glitch.com/edit/#!/occipital-yellow-attempt
 # Reflections about the light and sound memory game
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
